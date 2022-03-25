@@ -1,5 +1,9 @@
 # INFO2300-Assignment-3
-This TaraRS INFO2300 Assignment 3 - Its a reservation Systems for an Airline
+## Name:Tara Ramnaraine-Singh
+## INFO2300 Assignment 3 
+## Description
+This project is about a reservation Systems developed for an Airline with small aeroplanes.
+Their internal reservation saff can used the application to make the booking for the passengers,
 
 
 
