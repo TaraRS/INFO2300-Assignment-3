@@ -2,6 +2,38 @@
 ## Name:Tara Ramnaraine-Singh
 ## INFO2300 Assignment 3 
 ## Date:25 MAR 2022
+
+## Instructions - Please refer to the word document for detailed instruction and testing instruction and screen shots results
+
+- Add a detailed, properly formatted README.md file to tell the user what is the purpose of the project, instructions on how to build and run the project, as well as any other related information
+- 
+=> Tools required to install on your Windows for this project: Visual Studio community edition
+=> Please follow the instructions below
+
+=> Download and install visual studio 2019 for windows community edition
+=> Using this URL
+=> https://visualstudio.microsoft.com/downloads/
+
+=> Make sure you include all C# packages
+
+=> Navigate to TaraRS repository using the below URL
+ https://github.com/TaraRS/INFO2300-Assignment-3
+
+=> Then 
+
+=> Click on Code
+=> Then Download the zip file
+=> Extract the zip files files and open the Tara_Assignment1.sln file as highlighted in the word document
+
+## Steps to run the app
+=> 1.	Clicked in “Debug”
+=> 2.	Select “Start without debugging”
+=> You should get the below screen as per the word document
+
+## TESTING INSTRUCTIONS
+
+PLEASE REFER TO THE WORD DOCUMENT FOR DETAILED TESTING INSTRUCTION
+
 ## Description
 This project is about a reservation Systems developed for an Airline with small aeroplanes.
 Their internal reservation saff can used the application to make the booking for the passengers
