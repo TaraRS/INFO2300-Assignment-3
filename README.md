@@ -2,7 +2,7 @@
 ## Name:Tara Ramnaraine-Singh
 ## INFO2300 Assignment 3 
 ## Date:25 MAR 2022
-## Description
+## Description of the project
 This project is about a reservation Systems developed for an Airline with small aeroplanes.
 Their internal reservation saff can used the application to make the booking for the passengers
 
