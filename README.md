@@ -5,8 +5,6 @@
 This project is about a reservation Systems developed for an Airline with small aeroplanes.
 Their internal reservation saff can used the application to make the booking for the passengers,
 
-
-
 ###### Contributer
 - Tara Ramnaraine-Singh <nramnarainesing5897@conestogac.on.ca>
 
